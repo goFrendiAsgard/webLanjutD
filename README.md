@@ -42,5 +42,6 @@
 * Fork repository ini
 * Tulis nama, nrp dan user name anda di list berikut
     - nama, nrp, user name
+    - Radi Rusadi Susanto, 141111023, riddick86
 * Kontribusi
 * Ajukan pull request
