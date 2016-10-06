@@ -43,6 +43,9 @@ class Pokemon extends CI_Controller{
     public function delete_action($id){
         // TODO: panggil fungsi delete di pokemon_model
         // TODO: load view pokemon_delete
+        $letak = array('id'=>$id);
+        $this->pokemon_model->delete($letak,'pokemon');
+        $this_>load->view('pokemon_delete');
     }
 
 }
