@@ -38,6 +38,8 @@ class Pokemon_model extends CI_Model{
     /* Fungsi ini menghapus satu record dari tabel pokemon yan memiliki id=$id*/
     public function delete($id){
         // TODO: Modif bagian ini
+        $this->db->where('id', $id);
+        $this->db->delete('pokemon');
     }
 
 }
