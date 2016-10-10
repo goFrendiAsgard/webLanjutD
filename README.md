@@ -1,3 +1,4 @@
+
 #  Sebelum mulai?
 * Buat akun github
 * Buka dokumentasi Codeigniter
@@ -42,5 +43,6 @@
 * Fork repository ini
 * Tulis nama, nrp dan user name anda di list berikut
     - Fiqh Rizki Saputra, 141111058, Fiqih24
+    - U'un Setiawati, 141111099, UunSetyawati
 * Kontribusi
 * Ajukan pull request
