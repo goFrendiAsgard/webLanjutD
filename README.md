@@ -44,5 +44,5 @@
     - Ella Ayuningtyas, 141111024, ellaayu
 * Kontribusi
     - delete dan insert (controller/pokemon.php)
-    - insert (model/pokemon_model)
+    - delete (model/pokemon_model)
 * Ajukan pull request
