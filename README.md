@@ -41,6 +41,8 @@
 
 * Fork repository ini
 * Tulis nama, nrp dan user name anda di list berikut
-    - nama, nrp, user name
+    - Ella Ayuningtyas, 141111024, ellaayu
 * Kontribusi
+    - delete dan insert (controller/pokemon.php)
+    - insert (model/pokemon_model)
 * Ajukan pull request
