@@ -43,5 +43,6 @@
 * Tulis nama, nrp dan user name anda di list berikut
     - Fiqh Rizki Saputra, 141111058, Fiqih24
     - Muhammad Syaifullah, 121110609, Musyai
+    - Dirta Putra Anggara, 141111021, dirtaputra
 * Kontribusi
 * Ajukan pull request
