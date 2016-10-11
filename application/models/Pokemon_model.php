@@ -1,3 +1,4 @@
+
 <?php
 class Pokemon_model extends CI_Model{
 
@@ -26,6 +27,12 @@ class Pokemon_model extends CI_Model{
      */
     public function insert($data){
         // TODO: Modif bagian ini
+        $data = array(		
+		'nama'=>$this->input->post('nama'),
+		'tipe' =>$this->input->post('tipe')
+		);
+        $query = $this->db->insert('pokemon', $data);
+        return $query->result();
     }
 
     /* Fungsi ini mengupdate data ke dalam tabel pokemon yang memiliki id=$id.
